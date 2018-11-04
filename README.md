@@ -1,2 +1,2 @@
 # base_converter
-Quick python script to convert a number to a different base representation. 
+Quick python script to convert a number from decimal to a different base, or to decimal from another base. 
